@@ -41,7 +41,9 @@
 <img src="project-screenshot/course.PNG" width="100%">
 
 <img src="project-screenshot/opportunity.PNG" width="100%">
+
 <img src="project-screenshot/contact.PNG" width="100%">
+
 <img src="project-screenshot/footer.PNG" width="100%">
 
 
